@@ -26,4 +26,4 @@ AtliQ Bay has the highest occupancy of 66%
 * AtliQ lost around 298 Million in cancellation
 * Elite type rooms has the most booking and as well higher cancellation rate
 ## 📸 Dashboard Preview:# Hospitality-Analysis---PowerBI
- https://github.com/Kalyani-Balande/Hospitality-Analysis---PowerBI/upload/main
+ https://github.com/Kalyani-Balande/Hospitality-Analysis---PowerBI/blob/main/Hospitality%20Analysis.png
